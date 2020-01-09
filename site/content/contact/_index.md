@@ -1,19 +1,17 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/Horizontal Logo.png
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Contact Info
+    text: |-
+      Erik Laing, Associate Broker |
+      Creek Realty |
+      Mobile: 612-430-1014
+      Email: erik@laing-homes.com
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+My business is to work with you, wherever you are at (or wish to be). Please contact me to begin your next move.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
+You can also use the form below for any inquiries about coffee availability, monthly subscriptions and scheduling a 1-on-1 session
 with our baristas. Don’t be shy, drop us a line!
