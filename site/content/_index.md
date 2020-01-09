@@ -1,20 +1,31 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Erik Laing - REALTOR at Creek Realty
+subtitle: Helping you make the next move.
+image: img/06.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: An Introduction
+  text: >
+    Congratulations - you've found my personal business page! Thanks for coming
+    this far to learn about my philosophy and how I can help you. In time, this
+    page will become a blog dedicated to resources and information for
+    homeowners as well as anyone looking to make their next move.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  heading: Areas of Specialty
+  text: >-
+    I was born and raised in Minneapolis, and now make Eagan my family home. I
+    am an expert on the South Metro especially and have faithfully represented
+    buyers and sellers from Mora to Northfield and from Watertown to Hastings. 
+
+    If you are looking to buy or sell in ISD 196, I am uniquely positioned to
+    help you having lived and worked in the area since 2012.
+products: []
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    In a high-tech world, there are some things that benefit more than ever from
+    a human touch. I work to make every transaction a smooth one, and sweat the
+    details to ensure that your needs are met when you buy and/or sell. 
+     
+    No gimmicks, no shortcuts, just the best service around.
 ---
 
