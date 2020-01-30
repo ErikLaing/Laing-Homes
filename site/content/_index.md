@@ -18,7 +18,7 @@ intro:
 
     If you are looking to buy or sell in ISD 196, I am uniquely positioned to
     help you having lived and worked in the area since 2012.
-products: []
+services: []
 values:
   heading: Our values
   text: >-
