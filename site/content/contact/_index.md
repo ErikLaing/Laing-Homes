@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/Horizontal Logo.png
+logo: img/Creek-Realty-Horizontal-Logo.png
 contact_entries:
   - heading: Contact Info
     text: |-
